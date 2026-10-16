@@ -1,3 +1,6 @@
+Need a custom AI Chatbot for your business?  
+Order on Fiverr: [Build Custom AI Chatbot](https://www.fiverr.com/aftab_hussain_c)
+
 # Sweet Crumbs Bakery — AI Support Chatbot
 
 A custom AI chatbot that answers customer questions for a business — hours, orders, delivery, policies — using a business-specific knowledge prompt instead of generic answers. Runs **entirely locally**, no API keys, no per-message cost.
